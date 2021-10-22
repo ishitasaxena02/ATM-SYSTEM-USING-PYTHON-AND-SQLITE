@@ -1,0 +1,2 @@
+# ATM-SYSTEM-USING-PYTHON-AND-SQLITE
+It is a project on the ATM system. It provides all the features of an ATM and is connected to a pre-defined database that updates aer every transaction. There is an initial function to create the database and entries. Then, there is another function to print the entire database at any given point. The third file is the main ATM file that will perform all the basic functions.
